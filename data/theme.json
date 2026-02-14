@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 1,
+          "green": 132,
+          "blue": 152,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#018498",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.76,
           "wcagRating": "AA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 0,
+          "green": 99,
+          "blue": 114,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#006372",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.1,
+          "luminancePercent": "10%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 6.94,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 2,
+          "green": 177,
+          "blue": 177,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#02b1b1",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.93,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 132,
+          "blue": 153,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#008499",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.76,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 1,
+          "green": 132,
+          "blue": 152,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#018498",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.76,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Söhne', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://orthobar.com/wp-content/uploads/2022/01/orthobar-Logo-1.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://orthobar.com/wp-content/uploads/2022/01/orthobar-Logo-1.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
+          "hex": "#000000",
           "luminosity_percent": 0,
+          "count": 66
+        },
+        {
+          "hex": "#02b1b1",
+          "luminosity_percent": 35,
+          "count": 10
+        },
+        {
+          "hex": "#02b5b5",
+          "luminosity_percent": 36,
+          "count": 6
+        },
+        {
+          "hex": "#02b2b2",
+          "luminosity_percent": 35,
+          "count": 4
+        },
+        {
+          "hex": "#01b1b1",
+          "luminosity_percent": 35,
+          "count": 4
+        },
+        {
+          "hex": "#01b2b2",
+          "luminosity_percent": 35,
+          "count": 3
+        },
+        {
+          "hex": "#01afaf",
+          "luminosity_percent": 34,
           "count": 2
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
+          "hex": "#01bdbd",
+          "luminosity_percent": 40,
           "count": 2
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
+          "hex": "#005b5b",
+          "luminosity_percent": 8,
           "count": 1
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
+          "hex": "#005e5e",
+          "luminosity_percent": 9,
           "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#000000",
+      "avg_luminosity": 11.3,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://orthobar.com/wp-content/uploads/2022/01/cropped-orthobar-Logo-1-32x32.png"
   }
 }
